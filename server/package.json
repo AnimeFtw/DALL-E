@@ -9,5 +9,8 @@
   "author": "",
   "license": "ISC",
   "description": "",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  }
 }
